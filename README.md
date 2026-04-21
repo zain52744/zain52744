@@ -1,53 +1,110 @@
-# Hi, I'm Zain Ali 👋
+<div align="center">
 
-**Associate Software Engineer · AI & Backend · Islamabad, Pakistan**
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Zain%20Ali&fontSize=60&fontColor=00ff88&animation=fadeIn&desc=Associate%20Software%20Engineer%20·%20AI%20%26%20Backend&descSize=18&descAlignY=75&descColor=8b949e)
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+think+%F0%9F%A4%96;Multi-agent+orchestration+with+LangGraph;RAG+pipelines+%2B+Knowledge+Graphs;FastAPI+%2B+MongoDB+%2B+Docker)](https://git.io/typing-svg)
 
-🤖 Building AI-driven applications and multi-agent systems at **Volmatica**  
-🔧 Passionate about LLM pipelines, agentic workflows, and production-ready GenAI solutions  
-🎓 CS graduate from Virtual University Pakistan (2025)  
-📍 Based in Islamabad · Open to remote opportunities  
+</div>
 
 ---
 
-## 🧠 What I Work With
+<div align="center">
 
-**AI / LLM**  
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+### 🌐 &nbsp; `Islamabad, Pakistan` &nbsp;·&nbsp; `Open to Remote` &nbsp;·&nbsp; `AI/Backend Engineer`
+
+</div>
+
+---
+
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+**Languages & Backend**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48"/>
+
+<br/><br/>
+
+**Databases**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48"/>
+
+<br/><br/>
+
+**DevOps & Tools**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48"/>
+
+<br/><br/>
+
+**AI / LLM Stack**
+
+![LangChain](https://img.shields.io/badge/LangChain-00ff88?style=for-the-badge&logo=langchain&logoColor=000000)
+![LangGraph](https://img.shields.io/badge/LangGraph-00ff88?style=for-the-badge&logo=langchain&logoColor=000000)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=python&logoColor=white)
-![LangFuse](https://img.shields.io/badge/LangFuse-6366F1?style=for-the-badge&logo=python&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-1a1a2e?style=for-the-badge&logo=anthropic&logoColor=00ff88)
+![LangFuse](https://img.shields.io/badge/LangFuse-1a1a2e?style=for-the-badge&logo=python&logoColor=00ff88)
+![FAISS](https://img.shields.io/badge/FAISS-1a1a2e?style=for-the-badge&logo=meta&logoColor=00ff88)
 
-**Backend**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-**Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### Knowledge Graph RAG System `RAG` `Knowledge Graph` `LLM`
-A hybrid Retrieval Augmented Generation system combining **Knowledge Graphs** (NetworkX + MongoDB) with **FAISS vector search** for intelligent document understanding and querying.
+<table>
+<tr>
+<td width="100%">
 
-**Tech Stack:** Python · FastAPI · OpenAI GPT-4o-mini · LangChain · MongoDB · FAISS · NetworkX · Docker · LangFuse
+### 🕸️ Knowledge Graph RAG System
+> *Hybrid Retrieval Augmented Generation — where vector search meets graph intelligence*
 
-**Key Features:**
-- 📄 Multi-source ingestion (PDF & CSV parsing) with intelligent chunking
-- 🔍 Hybrid retrieval: Vector search (FAISS) + Graph traversal (NetworkX)
-- 🤖 LLM-based entity & relation extraction via GPT
+A production-grade RAG system combining **FAISS vector search** with **NetworkX knowledge graphs** for deep document understanding.
+📄 PDF/CSV ingestion     →    🧠 GPT entity extraction
+🔍 FAISS vector search   →    🕸️ Graph traversal (NetworkX)
+⚡ Async FastAPI API     →    📊 LangFuse monitoring
+🐳 Docker Compose        
+
+**Stack:** `Python` `FastAPI` `OpenAI GPT-4o-mini` `LangChain` `MongoDB` `FAISS` `NetworkX` `Docker` `LangFuse`
+
+[**→ View Repository**](YOUR_REPO_LINK)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📡 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88)](YOUR_LINKEDIN_URL)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:mohammadzain52744@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/zain52744)
+
+</div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer)
+
+</div>
 - ⚡ Production-ready async FastAPI API with MongoDB
 - 📊 LangFuse monitoring for all LLM operations
 - 🗺️ Graph exploration endpoints (entity lookup, shortest path queries)
