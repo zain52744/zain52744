@@ -4,13 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+think+%F0%9F%A4%96;Multi-agent+orchestration+with+LangGraph;RAG+pipelines+%2B+Knowledge+Graphs;FastAPI+%2B+MongoDB+%2B+Docker)](https://git.io/typing-svg)
 
-</div>
-
----
-
-<div align="center">
-
-### 🌐 &nbsp; `Islamabad, Pakistan` &nbsp;·&nbsp; `Open to Remote` &nbsp;·&nbsp; `AI/Backend Engineer`
+`Islamabad, Pakistan` &nbsp;·&nbsp; `Open to Remote` &nbsp;·&nbsp; `AI/Backend Engineer`
 
 </div>
 
@@ -20,16 +14,10 @@
 
 <div align="center">
 
-**Languages & Backend**
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48"/>
-
-<br/><br/>
-
-**Databases**
-
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48"/>
@@ -37,20 +25,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48"/>
-
-<br/><br/>
-
-**DevOps & Tools**
-
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48"/>
 
-<br/><br/>
-
-**AI / LLM Stack**
+<br/>
 
 ![LangChain](https://img.shields.io/badge/LangChain-00ff88?style=for-the-badge&logo=langchain&logoColor=000000)
 ![LangGraph](https://img.shields.io/badge/LangGraph-00ff88?style=for-the-badge&logo=langchain&logoColor=000000)
@@ -67,18 +49,14 @@
 
 <table>
 <tr>
-<td width="100%">
+<td>
 
 ### 🕸️ Knowledge Graph RAG System
-> *Hybrid Retrieval Augmented Generation — where vector search meets graph intelligence*
+> *Hybrid RAG — where vector search meets graph intelligence*
 
 A production-grade RAG system combining **FAISS vector search** with **NetworkX knowledge graphs** for deep document understanding.
-📄 PDF/CSV ingestion     →    🧠 GPT entity extraction
-🔍 FAISS vector search   →    🕸️ Graph traversal (NetworkX)
-⚡ Async FastAPI API     →    📊 LangFuse monitoring
-🐳 Docker Compose        
 
-**Stack:** `Python` `FastAPI` `OpenAI GPT-4o-mini` `LangChain` `MongoDB` `FAISS` `NetworkX` `Docker` `LangFuse`
+`Python` `FastAPI` `GPT-4o-mini` `LangChain` `MongoDB` `FAISS` `NetworkX` `Docker` `LangFuse`
 
 [**→ View Repository**](https://github.com/zain52744/KnowledgeGraph)
 
