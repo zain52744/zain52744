@@ -80,7 +80,7 @@ A production-grade RAG system combining **FAISS vector search** with **NetworkX 
 
 **Stack:** `Python` `FastAPI` `OpenAI GPT-4o-mini` `LangChain` `MongoDB` `FAISS` `NetworkX` `Docker` `LangFuse`
 
-[**→ View Repository**](YOUR_REPO_LINK)
+[**→ View Repository**](https://github.com/zain52744/KnowledgeGraph)
 
 </td>
 </tr>
