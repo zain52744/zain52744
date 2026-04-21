@@ -1,60 +1,57 @@
-<div align="center">
+# 🚀 Zain Ali | AI & Backend Engineer
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Zain%20Ali&fontSize=60&fontColor=00ff88&animation=fadeIn&desc=Associate%20Software%20Engineer%20·%20AI%20%26%20Backend&descSize=18&descAlignY=75&descColor=8b949e)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+think+%F0%9F%A4%96;Multi-agent+orchestration+with+LangGraph;RAG+pipelines+%2B+Knowledge+Graphs;FastAPI+%2B+MongoDB+%2B+Docker)](https://git.io/typing-svg)
-
-`Islamabad, Pakistan` &nbsp;·&nbsp; `Open to Remote` &nbsp;·&nbsp; `AI/Backend Engineer`
-
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Associate+Software+Engineer;GenAI+Architecture+%26+RAG;Multi-Agent+%26+MCP+Development;FastAPI+%2B+LangGraph+%2B+MongoDB)](https://git.io/typing-svg)
 
 ---
 
-## ⚡ Tech Arsenal
+### 💫 About Me
 
-<div align="center">
+Driven by a **Computer Science** background, I specialize in architecting **AI-driven backend systems** and building production-ready **GenAI pipelines**. I bridge the gap between LLM research and real-world software — from multi-agent orchestration to hybrid RAG systems. Currently building production-level AI at **Volmatica**.
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,mongodb,postgres,mysql,redis,docker,git,github&theme=dark)](https://skillicons.dev)
-
-<br/>
-
-![LangChain](https://img.shields.io/badge/LangChain-00ff88?style=for-the-badge&logo=langchain&logoColor=000000)
-![LangGraph](https://img.shields.io/badge/LangGraph-00ff88?style=for-the-badge&logo=langchain&logoColor=000000)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-1a1a2e?style=for-the-badge&logo=anthropic&logoColor=00ff88)
-![LangFuse](https://img.shields.io/badge/LangFuse-1a1a2e?style=for-the-badge&logo=python&logoColor=00ff88)
-![FAISS](https://img.shields.io/badge/FAISS-1a1a2e?style=for-the-badge&logo=meta&logoColor=00ff88)
-
-</div>
+- 🔭 **Current Focus:** Multi-agent workflows (LangGraph + MCP), Knowledge Graph RAG, LLM pipeline observability
+- ⚡ **Technical Philosophy:** Clean, scalable backends that make AI actually ship to production
+- 🌍 **Location:** Islamabad, Pakistan
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Technical Arsenal
 
-### 🕸️ [Knowledge Graph RAG System](https://github.com/zain52744/KnowledgeGraph)
-
-> *Hybrid RAG — where vector search meets graph intelligence*
-
-A production-grade RAG system combining **FAISS vector search** with **NetworkX knowledge graphs** for intelligent document understanding.
-
-`Python` &nbsp; `FastAPI` &nbsp; `GPT-4o-mini` &nbsp; `LangChain` &nbsp; `MongoDB` &nbsp; `FAISS` &nbsp; `NetworkX` &nbsp; `Docker` &nbsp; `LangFuse`
-
----
-
-## 📡 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88)](https://www.linkedin.com/in/zain-ali-89555429b/)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:mohammadzain52744@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/zain52744)
-
-</div>
+| Category | Tools & Technologies |
+| --- | --- |
+| **Generative AI** | LLMs, RAG, Knowledge Graph RAG, LangChain, LangGraph, MCP, LangFuse, OpenAI API |
+| **Backend** | Python, FastAPI, REST APIs, WebSockets, JWT Auth, Microservices |
+| **Databases & Cache** | MongoDB, PostgreSQL, MySQL, SQLite, Redis |
+| **Speech & NLP** | faster-whisper, Speechmatics API, Speaker Diarization, NLP Pipelines |
+| **DevOps & Tools** | Docker, Docker Compose, Git, GitHub |
 
 ---
 
-<div align="center">
+### 📌 Featured Project
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer)
+#### 🕸️ [Knowledge Graph RAG System](https://github.com/zain52744/KnowledgeGraph)
 
-</div>
+A production-grade **Hybrid Retrieval Augmented Generation** system combining FAISS vector search with NetworkX knowledge graphs for intelligent document understanding and querying.
+
+- 📄 Multi-source ingestion (PDF & CSV) with intelligent chunking
+- 🧠 LLM-based entity & relationship extraction via GPT-4o-mini
+- 🔍 Dual-search pipeline — semantic (FAISS) + graph traversal (NetworkX)
+- 🗺️ Graph exploration endpoints: entity lookup, shortest path queries
+- 📊 Full LangFuse monitoring for all LLM operations
+- 🐳 Complete Docker Compose deployment with MongoDB
+
+**Stack:** `Python` · `FastAPI` · `OpenAI GPT-4o-mini` · `LangChain` · `MongoDB` · `FAISS` · `NetworkX` · `Docker` · `LangFuse`
+
+---
+
+### 💼 Work Experience
+
+**Associate Software Engineer @ Volmatica** *(Jan 2026 – Present)*
+
+- Built multi-agent AI systems using LangGraph and LangChain with MCP-based tool integrations
+- Developed production FastAPI microservices exposing GenAI capabilities as RESTful endpoints, backed by MongoDB, PostgreSQL, and Redis
+- Implemented RAG systems and instrumented LLM pipelines with LangFuse for monitoring, tracing, and cost optimization
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-ali-89555429b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadzain52744@gmail.com)
