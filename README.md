@@ -26,7 +26,7 @@ Driven by a **Computer Science** background, I specialize in architecting **AI-d
 
 ---
 
-### 📌 Featured Project
+### 📌 Featured Projects
 
 #### 🕸️ [Knowledge Graph RAG System](https://github.com/zain52744/KnowledgeGraph)
 
@@ -40,6 +40,21 @@ A production-grade **Hybrid Retrieval Augmented Generation** system combining FA
 - 🐳 Complete Docker Compose deployment with MongoDB
 
 **Stack:** `Python` · `FastAPI` · `OpenAI GPT-4o-mini` · `LangChain` · `MongoDB` · `FAISS` · `NetworkX` · `Docker` · `LangFuse`
+
+---
+
+#### 🤖 [SmartRAG](https://github.com/zain52744/SmartRag)
+
+A production-ready **Retrieval-Augmented Generation** backend with JWT authentication, Redis-backed query caching, and smart document lifecycle management — built for developers who need a secure RAG API out of the box.
+
+- 📄 Multi-format ingestion (PDF, DOCX, TXT, raw text) with automatic chunking & embeddings
+- 🔍 Semantic search via FAISS + HuggingFace `all-MiniLM-L6-v2` embeddings
+- 🧠 Context-aware answers with source attribution powered by Groq LLaMA 3.3 70B
+- ⚡ Redis query cache with LRU eviction (max 5 entries, 1-hour TTL) — cache invalidated on new ingestion
+- 🗂️ Smart document management — max 5 active sources, SHA-256 duplicate detection, auto LRU eviction
+- 🔐 Full auth system — JWT access + refresh tokens, Bcrypt passwords, role-based access control
+
+**Stack:** `Python` · `FastAPI` · `Groq LLaMA 3.3 70B` · `LangChain` · `FAISS` · `HuggingFace` · `Redis` · `JWT`
 
 ---
 
