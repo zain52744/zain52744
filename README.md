@@ -58,6 +58,21 @@ A production-ready **Retrieval-Augmented Generation** backend with JWT authentic
 
 ---
 
+#### 🕷️ [AI Job Scraper](https://github.com/zain52744/Job_Scraper)
+
+An automated **AI job scraping pipeline** that collects junior-friendly AI/ML roles from LinkedIn and Indeed across Pakistan cities, filters them intelligently, and syncs results to Google Sheets — running hands-free every hour.
+
+- 🔍 Multi-city search across Islamabad, Lahore, Karachi & Rawalpindi
+- 🧹 Deduplication + AI keyword filtering + experience-level gating (< 2 years)
+- 📊 Auto-sync to Google Sheets via n8n OAuth2 integration
+- ⏱️ Fully automated — scheduled every hour with zero manual intervention
+- 🐳 One-command Docker Compose setup for the full stack
+
+**Stack:** `Python` · `FastAPI` · `JobSpy` · `n8n` · `Google Sheets API` · `Docker`
+
+---
+
+
 ### 💼 Work Experience
 
 **Associate Software Engineer @ Volmatica** *(Jan 2026 – Present)*
