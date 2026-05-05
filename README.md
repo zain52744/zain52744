@@ -43,6 +43,20 @@ A production-grade **Hybrid Retrieval Augmented Generation** system combining FA
 
 ---
 
+#### 🧠 [Autonomous Research Agent](https://github.com/zain52744/Research_Agent)
+
+A production-style **multi-agent research system** that takes a user query, searches the web, extracts knowledge, builds a per-job knowledge graph, and generates a structured research report with critic-based refinement.
+
+- 🧭 LangGraph workflow: planner → searcher → reader → extractor → graph builder → synthesizer → critic
+- 🔍 Hybrid retrieval using FAISS vector search + NetworkX graph traversal
+- 🕸️ External Knowledge Graph microservice integration via `/ingest/csv`, `/ingest/text`, and optional graph query endpoints
+- 📄 Web fetching, chunking, entity extraction, relationship extraction, and report synthesis
+- 📊 LangFuse tracing for LLM observability
+- 🐳 Dockerized FastAPI backend with MongoDB job persistence
+
+**Stack:** `Python` · `FastAPI` · `LangGraph` · `LangChain` · `OpenAI` · `MongoDB` · `FAISS` · `NetworkX` · `Docker` · `LangFuse`
+
+
 #### 🤖 [SmartRAG](https://github.com/zain52744/SmartRag)
 
 A production-ready **Retrieval-Augmented Generation** backend with JWT authentication, Redis-backed query caching, and smart document lifecycle management — built for developers who need a secure RAG API out of the box.
